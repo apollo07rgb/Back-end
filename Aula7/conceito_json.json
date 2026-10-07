@@ -1,0 +1,17 @@
+{
+    "gato":{
+        "nome": "Killua",
+        "idade": 1,
+        "raca": "sla",
+        "vacinado": true,
+        "peso": 25.5,
+        "brinquedos": ["bola", "osso", "frisbee"],
+        "dono": {
+            "nome": "lucas",
+            "telefone": "11916583006"
+        }
+    }
+}
+
+
+
